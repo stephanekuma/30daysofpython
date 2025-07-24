@@ -8,8 +8,8 @@ This project is a self-paced challenge where I am focusing on various aspects of
 
 ## Table of Contents
 
-- [Day 1: Introduction & Setup (Basics of Python)](./Day_1/day1_basics.md)
-- [Day 2: Variables & Functions](./README.md)
+- [Day 1: Introduction & Setup (Basics of Python)](./Day_1/day_1_basics.md)
+- [Day 2: Variables & Functions](./day_2/day_2_variables.md)
 - [Day 3: Operators](./README.md)
 - [Day 4: Strings](./README.md)
 - [Day 5: Lists](./README.md)

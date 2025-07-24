@@ -1,4 +1,4 @@
-# Day 1 - 30DaysOfPython Challenge
+# Day 1: 30 Days of python programming
 import sys
 import math
 
