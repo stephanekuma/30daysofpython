@@ -1,6 +1,6 @@
 # Day 1 - 30DaysOfPython Challenge
 
-Welcome to Day 1 of the 30DaysOfPython Challenge! Today, we'll be covering the basics of Python, including working with variables, performing basic arithmetic operations, understanding data types, and more
+Welcome to Day 1 of the 30DaysOfPython Challenge! Today, we'll be covering the basics of Python, including performing basic arithmetic operations, understanding data types, and more.
 
 ## Tasks for Day 1
 
@@ -77,8 +77,4 @@ Welcome to Day 1 of the 30DaysOfPython Challenge! Today, we'll be covering the b
     print("Euclidean Distance:", math.sqrt((10 - 2)**2 + (8 - 3)**2))
     ```
 
-These exercises help solidify your understanding of basic Python syntax, data types, and mathematical operations. Feel free to experiment with the examples provided and add your own variations.
-
-Keep going strong, and remember to commit your progress!
-
-> This file introduces Day 1 with basic concepts, Python syntax, and practical examples. You can expand or modify it as you progress with your challenge.
+These exercises help solidify your understanding of basic Python syntax, data types, and mathematical operations.
