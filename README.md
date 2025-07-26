@@ -10,7 +10,7 @@ This project is a self-paced challenge where I am focusing on various aspects of
 
 - [Day 1: Introduction & Setup (Basics of Python)](./Day_1/day_1_basics.md)
 - [Day 2: Variables & Functions](./day_2/day_2_variables.md)
-- [Day 3: Operators](./README.md)
+- [Day 3: Operators](./day_3/day_3_operator.md)
 - [Day 4: Strings](./README.md)
 - [Day 5: Lists](./README.md)
 - [Day 6: Tuples](./README.md)
